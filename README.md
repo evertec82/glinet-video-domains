@@ -7,7 +7,7 @@ One GL.iNet-compatible, domain-only subscription for major video services. It co
 After publishing, use:
 
 ```text
-https://raw.githubusercontent.com/elliotttate/glinet-video-domains/main/dist/video-domains.txt
+https://raw.githubusercontent.com/evertec82/glinet-video-domains/main/dist/video-domains.txt
 ```
 
 In GL.iNet, choose the VPN policy based on a specified domain/IP list, select **Subscription URL**, paste the raw URL, and run **Detect**. This list contains one lowercase domain per line and no IP ranges.
